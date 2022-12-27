@@ -18,6 +18,12 @@ namespace DebuggingApp
 
         public static List<int> GetSmallests(List<int> list, int count)
         {
+            //if list is null
+            if (list == null)
+                throw new ArgumentNullException("list");
+            //handle exception
+            if (count > list.Count || count <= 0)
+                throw new ArgumentOutOfRangeException("count", "Count should be between 1 and the number of elements in the list");
             var buffer = new List<int>(list);//create a copy of the list and do processing by it.
             var smallests = new List<int>();
 
