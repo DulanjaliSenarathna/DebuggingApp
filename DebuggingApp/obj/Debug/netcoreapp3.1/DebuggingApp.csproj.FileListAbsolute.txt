@@ -1,0 +1,13 @@
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\bin\Debug\netcoreapp3.1\DebuggingApp.exe
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\bin\Debug\netcoreapp3.1\DebuggingApp.deps.json
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\bin\Debug\netcoreapp3.1\DebuggingApp.runtimeconfig.json
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\bin\Debug\netcoreapp3.1\DebuggingApp.runtimeconfig.dev.json
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\bin\Debug\netcoreapp3.1\DebuggingApp.dll
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\bin\Debug\netcoreapp3.1\DebuggingApp.pdb
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.csprojAssemblyReference.cache
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.AssemblyInfoInputs.cache
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.AssemblyInfo.cs
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.csproj.CoreCompileInputs.cache
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.dll
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.pdb
+C:\Users\Dulanjali\Desktop\DebuggingApp\DebuggingApp\obj\Debug\netcoreapp3.1\DebuggingApp.genruntimeconfig.cache
